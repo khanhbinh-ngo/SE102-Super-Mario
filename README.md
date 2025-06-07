@@ -53,4 +53,6 @@ _Môn học: SE102 - Nhập môn Lập trình Game_
 - Cảnh vật (scene), level loading từ file.
 - Xử lý bàn phím theo frame thời gian thực.
 
----
+------
+## 📺 Video Demo gameplay
+Xem video tại đây 👉 [Link Video](https://youtu.be/u9kdWPlzcyU?si=VfCfA7ABW2gq7diN)
